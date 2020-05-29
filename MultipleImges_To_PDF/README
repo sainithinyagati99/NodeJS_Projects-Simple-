@@ -1,0 +1,6 @@
+This is a nodejs project which is completely based on images-pdf node package.
+Usage:-
+1)Create 2 folder "Images", "Output-Images",(Place the images to be converted to single pdf in the "images" folder)
+2)Open terminal from the code editor and type the following code,
+CODE:-
+*node index.js*
