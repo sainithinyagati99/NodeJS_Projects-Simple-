@@ -1,0 +1,3 @@
+This is a basic nodejs application for knowing the weather at a certain place,and the information is taken from a seperate website and is being displayed in the application.
+Commmands:-
+*node app.js "location name"*
