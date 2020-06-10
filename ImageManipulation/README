@@ -1,0 +1,5 @@
+This Project is completely based on JIMP node package...
+How to compress,edit image:-
+1)Open the document in code editor,and add the image to be edited in the directory. 
+2)Set the parameters in options(resize,qualtiy,etc..)
+3)Go to terminal and type index.js
